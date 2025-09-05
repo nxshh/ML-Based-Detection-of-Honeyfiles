@@ -1,5 +1,6 @@
 # Breaking the Bait: ML-Based Honeyfile Detection System
 
+Research Project:
 A machine learning-based system for detecting **honeyfiles**—decoy documents designed to trap attackers. Using a **Kali Linux–Metasploitable 2** environment, the system analyzes file attributes, metadata patterns, and access behaviors to distinguish real files from decoys in real-time, aiding penetration testers and red teams in accurate security assessments.
 
 ## Machine Learning Models
@@ -18,6 +19,7 @@ A machine learning-based system for detecting **honeyfiles**—decoy documents d
 - **Virtual Machines:** Kali Linux, Metasploitable 2  
 - **Tools:** Metasploit Framework  
 - **Programming Language:** Python  
+
 
 ## Author
 **Nisarga Murthy**  
